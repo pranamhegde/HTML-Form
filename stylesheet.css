@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+html{
+    background-image: url(background1.jpg);
+}
+.form{
+    
+    font-size: 30px;
+    
+}
+
+.form input{
+    text-align: left;
+    height: 30px;
+    width:35%;
+    font-size: large;
+}
+.form button{
+    margin: auto;
+    display: block;
+    height: 60px;
+    width: 150px;
+    font-size: 40px;
+}
+
+.occ{
+   text-align: left;
+   float: left;
+   padding-left: 40px;
+   
+}
+/* Use # to define properties for an id */
+#reason{
+    height: 70px;
+}
